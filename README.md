@@ -1,6 +1,6 @@
 # 👋 ¡Hi There!
 
-## 🚀 Lenguajes más usados
+## 🚀 Los lenguajes que más he utilizado son:
 
 <p align="center">
   <img
